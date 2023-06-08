@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\daire.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\daire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\daire.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\daire.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\daire.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\daire\bin\Debug\net7.0\daire.exe
+C:\Users\MONSTER\GitProject\daire\bin\Debug\net7.0\daire.deps.json
+C:\Users\MONSTER\GitProject\daire\bin\Debug\net7.0\daire.runtimeconfig.json
+C:\Users\MONSTER\GitProject\daire\bin\Debug\net7.0\daire.dll
+C:\Users\MONSTER\GitProject\daire\bin\Debug\net7.0\daire.pdb
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\daire.dll
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\refint\daire.dll
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\daire.pdb
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\daire.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\daire\obj\Debug\net7.0\ref\daire.dll
